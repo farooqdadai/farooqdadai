@@ -1,10 +1,10 @@
 ### Hi, I'm Farooq 👋
 
-Full-stack engineer. I build SaaS products, AI-powered tools and Chrome extensions with **Next.js, React, TypeScript and Node.js**.
+Full-stack engineer from Karachi, Pakistan. I build SaaS products, AI-powered tools and Chrome extensions with **Next.js, React, TypeScript and Node.js**.
 
-- 🔭 Currently building internal platforms and automation.
+- 🔭 Currently building internal platforms and automation at [Elevarus](https://github.com/Elevarus)
 - 🌱 Interested in AI integrations, developer tooling and scalable web apps
-- 🌐 Portfolio: [farooqdad.me](https://farooqdad.me)
+- 🌐 Portfolio: [farooqdad.com](https://farooqdad.com)
 - 📫 Reach me on [X / Twitter](https://twitter.com/farooqdadai)
 
 ---
